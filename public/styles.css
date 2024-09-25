@@ -1,0 +1,82 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #333;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav a {
+    color: white;
+    padding: 1em;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    background-color: #575757;
+  }
+  #sports {
+    padding: 20px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 8px;
+  }
+  
+  #sports ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #sports li {
+    margin-bottom: 20px;
+  }
+  
+  #sports h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  /* News section */
+  #news {
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin: 20px;
+    border-radius: 8px;
+  }
+  
+  #news article {
+    margin-bottom: 20px;
+  }
+  
+  #news h3 {
+    font-size: 1.8em;
+    color: #333;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+  }
+  
+  footer p {
+    margin: 0;
+    padding: 5px;
+  }
+  
+  footer a {
+    color: white;
+    text-decoration: none;
+    padding: 0 10px;
+    font-size: 1.5em;
+  }
+  
+  footer a:hover {
+    color: #4CAF50;
+  }
